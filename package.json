@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "dice-coefficient": "^1.0.3"
+  }
+}
